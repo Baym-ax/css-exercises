@@ -1,0 +1,19 @@
+.science {
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.history {
+    font-size: 24px;
+}
+
+#tuna {
+    color: blue;
+    font-size: 36px;
+}
+
+#shark {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
